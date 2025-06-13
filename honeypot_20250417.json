@@ -1,0 +1,4 @@
+{"timestamp": "2025-04-17T15:54:43.293332", "remote_ip": "127.0.0.1", "port": 21, "data": "USER anonymous\r\nPASS guest\r\n"}
+{"timestamp": "2025-04-17T15:54:43.306690", "remote_ip": "127.0.0.1", "port": 22, "data": "root\r\n"}
+{"timestamp": "2025-04-17T15:54:43.308258", "remote_ip": "127.0.0.1", "port": 80, "data": "GET / HTTP/1.1\r\nHost: localhost\r\n\r\n"}
+{"timestamp": "2025-04-17T15:54:43.315242", "remote_ip": "127.0.0.1", "port": 443, "data": "GET /secure HTTP/1.1\r\nHost: localhost\r\n\r\n"}
